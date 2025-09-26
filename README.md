@@ -1,2 +1,2 @@
-: september 26
+: Day one: september 26
 -
