@@ -1,1 +1,2 @@
-# lesson-
+: september 26
+-
